@@ -6,4 +6,5 @@
 
 |                                        Screenshot                                         |
 |:-----------------------------------------------------------------------------------------:|
-| <img src="https://github.com/jjagorka/bank_view/assets/screen/screen_1.jpg" height="400"> <br/>|
+| <img src="https://github.com/jjagorka/bank_view/blob/pr_branch/assets/screen/screen_1.jpg" height="400"> <br/>|
+<img src="https://github.com/jjagorka/bank_view/blob/pr_branch/assets/screen/screen_2.jpg" height="400"> <br/>|
