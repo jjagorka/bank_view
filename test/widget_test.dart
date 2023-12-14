@@ -10,10 +10,12 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:bank_view/main.dart';
 
+import '../lib/bank_view.dart';
+
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+    await tester.pumpWidget(const BankApp());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
